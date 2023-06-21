@@ -1,3 +1,4 @@
 Testing new file
 new commit
 stages: Committed -> Modified -> Staged
+git status
