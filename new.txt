@@ -2,3 +2,4 @@ Testing new file
 new commit
 stages: Committed -> Modified -> Staged
 git status command to see the files in above statuses 
+new content for diff
