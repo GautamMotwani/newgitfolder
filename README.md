@@ -1,2 +1,0 @@
-# newgitfolder
-test files
