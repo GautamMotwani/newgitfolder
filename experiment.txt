@@ -1,4 +1,8 @@
 Testing branching
 
+<<<<<<< HEAD
 second attempt testing
+=======
+first try
+>>>>>>> firsttry
 what is it
